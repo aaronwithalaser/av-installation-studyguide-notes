@@ -31,9 +31,9 @@ Direct view of diagram https://excalidraw.com/#json=NPLsQsz8ElgyF7sBgBLDe,4wMioG
 
 This diagram represents a theoretical LED wall system layout for learning and reference purposes.
 
-It outlines the core signal flow from Media Source → S-Box Processor → IG (Interface Gender) → Data Zones → Cabinets → LED Modules.
+It represents my current understanding of the core signal flow from Media Source → S-Box Processor → IG (Interface Gender) → Data Zones → Cabinets → LED Modules.
 
-The diagram assumes an unknown display size and cabinet count — focusing instead on the fundamental system architecture and data link principles.
+The diagram assumes an unknown display size and cabinet count and trying to focus instead on the fundamental system architecture and data link principles.
 
 ---
 
