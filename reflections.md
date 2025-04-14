@@ -28,3 +28,14 @@ Each Cabinet = Contains Hub Board + Passive Modules
 Cabinets Grouped Into = Data Zones (For Load Management)
 
 My confusion here was thinking cabinets hold each zone. Zones are managed data sections and can span across multiple cabinets regardless of cabinets and the HUB board. It's starting to click. 
+
+
+1 Wall = Many Cabinets
+
+1 Cabinet = Hub Board + LED Modules
+
+Data Links = Cabinet-to-Cabinet
+
+Zones = Logical Groups of Cabinets (for signal load management)
+
+Power Chains = Separate from Data Links (but follow similar grouping)
