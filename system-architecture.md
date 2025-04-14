@@ -67,6 +67,8 @@ Samsung LED Wall Basic Data Flow:
 
 - Create visulisation to help understand basic data flow diagram and try to find commercial diagrams online.
 
+https://excalidraw.com/#json=HTeCSv2eAejn7iKjUVvd0,oC-banSIiW9EYbYoQuHOQQ
+
 ## Key Concepts to Remember
 
 - Primary and Redundant Data Lines for fault tolerance.
