@@ -63,8 +63,6 @@ This is a personal learning project. Expect mistakes, expect revisions, expect g
 
 - Manufacturer Documentation
 
-- Professional AV Installers
-
 - Samsung LED Video Wall Training Videos  
   https://www.youtube.com/playlist?list=PL51xQIiUs4fn57tMAuRTE90B15xAdUGtR
 
