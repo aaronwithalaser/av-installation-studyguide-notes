@@ -16,14 +16,18 @@ Please expect mistakes and many revisions.
 
 | Section | Description |
 |---------|-------------|
-| [System Architecture](./01_system-architecture.md) | High-level breakdown of how LED walls are structured from source to display. Signal flow and core components. |
+| [Raw Notes](./reflections.md) | Direct thoughts, notes and reflections on findings. |
+| [System Architecture](./system-architecture.md) | High-level breakdown of how LED walls are structured from source to display. Signal flow and core components. |
 | [Cabling Principles](./02_cabling-principles.md) | Notes on cable types, data transmission methods, redundancy, and physical install considerations. |
-| [Data Flow Diagrams](./03_data-flow-diagrams.md) | Visual examples of typical Samsung LED wall layouts, primary/redundant data paths, and zone segmentation. |
 | [Samsung-Specific Details](./04_samsung-specifics.md) | Notes on Samsung’s S-Box, Interface Gender (IG), OCM cables, and cabinet connection standards. |
 | [On-Site Etiquette](./05_on-site-etiquette.md) | Notes for working clean, communicating well, asking for help properly, and behaving on a job site. |
 | [Glossary](./06_glossary.md) | Quick reference for AV and LED-specific terminology. |
 
 ## System Architecture — Conceptual Overview
+
+![System Architecture Diagram](./image.png)
+
+Direct view of diagram https://excalidraw.com/#json=NPLsQsz8ElgyF7sBgBLDe,4wMioGRf5puwPQk9xx8VHg
 
 This diagram represents a theoretical LED wall system layout for learning and reference purposes.
 
@@ -41,9 +45,7 @@ The diagram assumes an unknown display size and cabinet count — focusing inste
 
 ---
 
-![System Architecture Diagram](https://imgur.com/a/9xDrXkq)
-
-Further research notes: [System Architecture To-Do](./diagrams/system-architecture-todo.md)
+Raw research notes unedited: [reflections.md](./reflections.md)
 
 
 ## Usage Notes
