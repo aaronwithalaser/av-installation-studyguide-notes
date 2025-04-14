@@ -1,4 +1,4 @@
-# AV Installation Study Guide — LED Video Walls
+# Installation & system understanding Study material —
 
 ## About This Repository
 
@@ -22,6 +22,29 @@ Please expect mistakes and many revisions.
 | [Samsung-Specific Details](./04_samsung-specifics.md) | Notes on Samsung’s S-Box, Interface Gender (IG), OCM cables, and cabinet connection standards. |
 | [On-Site Etiquette](./05_on-site-etiquette.md) | Notes for working clean, communicating well, asking for help properly, and behaving on a job site. |
 | [Glossary](./06_glossary.md) | Quick reference for AV and LED-specific terminology. |
+
+## System Architecture — Conceptual Overview
+
+This diagram represents a theoretical LED wall system layout for learning and reference purposes.
+
+It outlines the core signal flow from Media Source → S-Box Processor → IG (Interface Gender) → Data Zones → Cabinets → LED Modules.
+
+The diagram assumes an unknown display size and cabinet count — focusing instead on the fundamental system architecture and data link principles.
+
+---
+
+### Remaining Work:
+- Add cabinet-to-cabinet data link details within each zone.
+- Add power chain routing between cabinets.
+- Confirm data link cable types used (IG → Cabinet, Cabinet → Cabinet).
+- Confirm IG output limits and behaviour per model.
+
+---
+
+![System Architecture Diagram](https://imgur.com/a/9xDrXkq)
+
+Further research notes: [System Architecture To-Do](./diagrams/system-architecture-todo.md)
+
 
 ## Usage Notes
 
