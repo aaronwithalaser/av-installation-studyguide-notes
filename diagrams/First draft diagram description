@@ -1,0 +1,77 @@
+## System Architecture & Conceptual Diagram (Work In Progress)
+
+This diagram is scoped for theory and system layout only and designed for learning and internal reference.
+
+It is not yet fully complete and several areas require further research, clarification, and refinement before being considered accurate enough for real-world deployment documentation.
+
+---
+
+### Remaining Work & Research Notes
+
+#### 1. Cabinet Interconnections (Data Link Between Cabinets)
+
+Currently only showing zone-level data link routing.
+
+- Missing: Cab to cab connection within each zone.
+- Research:
+  - What cable type is used between cabinets? (Samsung proprietary system cable / HDBaseT / Ribbon?)
+  - Confirm routing style: Vertical vs Horizontal daisy chain depending on install.
+
+---
+
+#### 2. Power Chain Layout
+
+Currently not shown.
+
+Cabinets are powered independently of the data link.
+
+- Research:
+  - How many cabinets per power chain?
+  - Power daisy chained between cabinets or direct run from PSU?
+
+---
+
+#### 3. IG (Interface Gender) Specific Behaviour & Limitations
+
+IG noted as passive breakout point.
+
+- Further clarity needed on:
+  - How many Primary/Redundant outputs per IG?
+  - Does the IG enforce pixel load limits or is this S-Box software managed?
+  - Confirm which models integrate IG into Sbox (check IW008C/IWA documentation).
+
+---
+
+#### 4. Data Link Cable Types & Limits
+
+Already noted:
+- Media Source to S-Box: HDMI / DP
+- S-Box to IG: Fibre (OCM One Connect) / HDBaseT
+
+Missing:
+- IG to Cabinets: Cable type?
+- Cabinet-to-Cabinet: Cable type?
+
+Research:
+- Confirm data link cable specs and max supported length.
+- Determine if Samsung use proprietary cables exclusively between cabinets.
+
+---
+
+### Optional Final Pass (Later Stage)
+
+- Add power chain overlays.
+- Label cabinet numbers per zone.
+- Add cable type legend.
+- Confirm module count per cabinet spec.
+- Final verification against manufacturer documentation.
+
+---
+
+This diagram serves as a working learning tool — fundamentals first, intricacies layered in later through research and experience.
+
+---
+
+## Diagram Visual
+
+![System Architecture Diagram](./assets/system-architecture.png)
