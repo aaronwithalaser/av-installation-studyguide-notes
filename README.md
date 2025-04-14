@@ -2,7 +2,7 @@
 
 ## About This Repository
 
-This repository is simply a place for me to collect notes, diagrams, terminology, and general research while learning about LED video wall installation. Particularly large format Samsung systems.
+This repository is simply a place for me to collect notes, diagrams, terminology, and general research while learning and researching theoretical large display LED installation. Particularly large format Samsung systems.
 
 I’m very new to this field. This isn’t intended to be a definitive guide or reference for others, but more of a personal learning project. If anything here is useful that's great but first and foremost, this is a workspace for me to structure my thoughts and document what I’m picking up as I go.
 
