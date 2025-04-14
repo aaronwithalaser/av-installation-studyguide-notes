@@ -1,6 +1,14 @@
 # Resources
 
+Video Guides:
+
 https://www.youtube.com/watch?v=naR-bPQPtxM
+
+Manuals:
+
+https://eu.community.samsung.com/t5/led-displays/iwa-ifa-installation-manual/ta-p/10612892
+https://www.manualslib.com/manual/1334079/Samsung-Snow-1703u.html?page=16#manual
+https://www.manualslib.com/manual/2916629/Samsung-Iwa-Series.html?page=36#manual
 
 Configurators:
 
