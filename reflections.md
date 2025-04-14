@@ -36,6 +36,8 @@ My confusion here was thinking cabinets hold each zone. Zones are managed data s
 
 Data Links = Cabinet-to-Cabinet
 
+Newer cab hubs may have intergrated T-con boards (T-CON: board to regulate and assign data to each LED module. From what I have read, often refered too when a row or single LED module is showing issues/flickering etc)
+
 Zones = Logical Groups of Cabinets (for signal load management)
 
 Power Chains = Separate from Data Links (but follow similar grouping)
