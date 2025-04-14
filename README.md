@@ -1,4 +1,4 @@
-# Installation & system understanding Study material —
+# Installation & system understanding Study material
 
 ## About This Repository
 
