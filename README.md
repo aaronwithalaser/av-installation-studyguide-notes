@@ -1,83 +1,68 @@
-# AV-Installation-studyguide-notes
-Learning journal and technical notes documenting my study into professional AV installation with a focus on Samsung (IWA / IFA series) &amp; Daktronics LED wall systems used in commercial environments.
+AV Installation Study Guide — LED Video Walls
 
+About This Repository
 
-# AV Installation Notes — Samsung LED Systems
+This repository is simply a place for me to collect notes, diagrams, terminology, and general research while learning about LED video wall installation — particularly large-format Samsung systems.
 
-This repository documents my learning journey into professional AV installation — with a focus on large-scale Samsung LED systems (IWA / IFA series) as used by commercial AV integrators.
+I’m very new to this field. This isn’t intended to be a definitive guide or reference for others, but more of a personal learning project. If anything here is useful to someone else, that’s great — but first and foremost, this is a workspace for me to structure my thoughts and document what I’m picking up as I go.
 
-This is an open, public learning journal designed to capture technical notes, terminology, troubleshooting references, and reflections as I study the field and prepare for work in the industry.
+The goal of this is not to act like theoretical knowledge is any replacement for real on-site experience. It isn’t. Installing and working with LED systems properly is a hands-on skillset built through practical exposure, mistakes, and working alongside experienced engineers and technicians.
 
----
+This project exists to fill the gap while I build that experience — to give myself something to refer back to, to stay organised, and to show future employers that I’m taking the learning process seriously while staying aware of my current limitations.
 
-## Why This Exists
+Expect mistakes. Expect revisions. Expect learning.
 
-I'm at the very beginning of my learning in AV installation. I want to create a resource that shows my process for learning complex systems, breaking down technical documentation, and developing field-ready knowledge.
+Contents
 
-This isn't a finished guide. It's a log of what I'm learning, how I'm thinking about the work, and where I'm heading next.
+Section
 
----
+Description
 
-## Repo Structure
+System Architecture
 
-```
-/
-├── README.md               <- Overview and purpose.
-├── install-notes/         <- Technical notes, cheat sheets, terminology.
-│   ├── samsung-iwa-notes.md
-│   ├── terminology.md
-│   └── troubleshooting-guide.md
-├── diagrams/              <- Visuals, diagrams, and workflow charts.
-│   └── led-install-process.png
-├── resources.md          <- Useful external resources and references.
-└── reflections.md        <- Learning logs, challenges, and thoughts.
-```
+High-level breakdown of how LED walls are structured from source to display. Signal flow and core components.
 
----
+Cabling Principles
 
-## Day 1 Notes: What I Know So Far
+Notes on cable types, data transmission methods, redundancy, and physical install considerations.
 
-- LED Install is modular.
-- Work is heavily diagram-based (site diagrams, power/data layouts, cabinet numbering).
-- Samsung IWA/IFA series is the current product focus.
-- Key processes involve:
-  - Frame installation
-  - Cabinet mounting
-  - Power & signal cabling (Docking or OCM cables)
-  - S-Box configuration (signal controller)
-  - Testing, calibration, dehumidification
+Data Flow Diagrams
 
----
+Visual examples of typical Samsung LED wall layouts, primary/redundant data paths, and zone segmentation.
 
-## Immediate Learning Priorities
+Samsung-Specific Details
 
-1. Read through the Samsung Installation Manual in stages.
-2. Understand LED install terminology:
-   - Cabinet
-   - Frame Kit
-   - Docking
-   - OCM Cable
-   - S-Box
-   - Dehumidification
-3. Study common troubleshooting processes (e.g. docking errors, Z-axis adjustment, screen defects).
-4. Understand environmental considerations (humidity, condensation, airflow requirements).
+Notes on Samsung’s S-Box, Interface Gender (IG), OCM cables, and cabinet connection standards.
 
----
+On-Site Etiquette
 
-## Resources
+Notes for working clean, communicating well, asking for help properly, and behaving on a job site.
 
-- Samsung LED Configurator: https://display-configurator.biz.samsung.com/
-- Samsung IWA + IFA Installation Manual: https://eu.community.samsung.com/t5/led-displays/iwa-ifa-installation-manual/ta-p/10612892
-- Daktronics manuals and knowledgebase guides: https://www.daktronics.com/en-us/support/manuals
-- Official Installation Manuals (Private Access)
-- AV Industry Terminology (To Build)
+Glossary
 
----
+Quick reference for AV and LED-specific terminology.
 
-## License
+Usage Notes
 
-MIT License — Open for educational and personal learning use.
+This is a personal learning repository. Files are organised into topic-specific markdown files. Images and diagrams will be stored in the /assets directory. Content will evolve over time as I learn more or correct mistakes.
 
----
+Disclaimer
 
-This repository is a work-in-progress and will evolve as I continue learning and gaining field experience.
+This is a personal learning project. Expect mistakes, expect revisions, expect growth.
+
+Resources & References
+
+Samsung LED Display Installation Manuals
+  https://eu.community.samsung.com/t5/led-displays/iwa-ifa-installation-manual/ta-p/10612892
+
+Manufacturer Documentation
+
+Professional AV Installers
+
+Samsung LED Video Wall Training Videos
+  https://www.youtube.com/playlist?list=PL51xQIiUs4fn57tMAuRTE90B15xAdUGtR
+
+Technical Forums & Industry Resources
+  https://www.daktronics.com/en-us/support/training
+  https://www.daktronics.com/en-us/learning-and-resources/led-learning-center
+
