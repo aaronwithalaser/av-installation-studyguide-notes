@@ -18,7 +18,7 @@ Update (15/04/2025)
   
 Persuing research into AV certifications and qualifications suitable for desired role:
   
-  - AVIXA CTS https://www.avixa.org/certification-section/CTS
+  - AVIXA CTS https://www.avixa.org/certification-section/CTS (update: registration filled for documentation and resources)
       - Baseline AV cert — recognized worldwide, required or preferred by most employers. Covers AV fundamentals, signal flow, project phases, and best practices. Strong in both the US and EU.
 
   - CEDIA Cabling & Infrastructure Technician https://cedia.org/smart-home-professionals/certifications/cit-certification/
