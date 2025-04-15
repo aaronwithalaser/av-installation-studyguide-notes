@@ -66,6 +66,10 @@ This is a personal learning repository. Files are organised into topic-specific 
   https://www.daktronics.com/en-us/support/training  
   https://www.daktronics.com/en-us/learning-and-resources/led-learning-center
 
+ Youtube walkthoughs and breakdowns:
+
+- https://www.youtube.com/watch?v=wTxtpojJbDc (Breakdown and link to notes)
+
 Manuals:
 
 https://eu.community.samsung.com/t5/led-displays/iwa-ifa-installation-manual/ta-p/10612892
