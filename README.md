@@ -70,13 +70,13 @@ This is a personal learning repository. Files are organised into topic-specific 
 
 - https://www.youtube.com/watch?v=wTxtpojJbDc (Breakdown and link to notes)
 
-Manuals:
+- Manuals:
 
 https://eu.community.samsung.com/t5/led-displays/iwa-ifa-installation-manual/ta-p/10612892
 https://www.manualslib.com/manual/1334079/Samsung-Snow-1703u.html?page=16#manual
 https://www.manualslib.com/manual/2916629/Samsung-Iwa-Series.html?page=36#manual
 
-Configurators:
+- Configurators:
 
 https://display-configurator.biz.samsung.com/
 https://partner.daktronics.com/design-tools/indoor-led-video-wall-configurator?e=other&w=15.000&h=6.000&u=metric&r=8k&s=1.2&m=5111
