@@ -15,6 +15,9 @@ What low cost projects can I create:
   - CRT wall?
     - custome PCB stream deck too crt wall
 
+1 IG card can put out 1920x1080 , it all boils down to which prodyct you’re dealing with and what the pixel pitch is of that product is as this varies. You can have IWA 0.8 PP or you can have IWA 1.5PP
+IG would output to a different amount of cabinets in each scenario - follow up 
+
 LED Modules (Segments) - Small magnetic LED tiles	- Passive, Just LEDs. No smart function.
 
 Cabinet - Frame holding LED Modules - Has Hub Board (Receiver Card). Manages signal for modules within it.
