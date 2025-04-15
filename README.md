@@ -52,10 +52,6 @@ Raw research notes unedited: [reflections.md](./reflections.md)
 
 This is a personal learning repository. Files are organised into topic-specific markdown files. Images and diagrams will be stored in the `/assets` directory. Content will evolve over time as I learn more or correct mistakes.
 
-## Disclaimer
-
-This is a personal learning project. Expect mistakes, expect revisions, expect growth.
-
 ## Resources & References
 
 - Samsung LED Display Installation Manuals  
