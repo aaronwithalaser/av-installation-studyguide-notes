@@ -3,6 +3,7 @@
 Video Guides:
 
 https://www.youtube.com/watch?v=naR-bPQPtxM
+https://www.youtube.com/playlist?list=PLVqy8UwKo2OXUUBctl2xfL78V2b_ETwX8
 
 Manuals:
 
