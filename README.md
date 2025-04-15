@@ -17,7 +17,7 @@ Please expect mistakes and many revisions.
 | Section | Description |
 |---------|-------------|
 | [Raw Notes](./reflections.md) | Direct thoughts, notes and reflections on findings. |
-| [System Architecture](./system-architecture.md) | High-level breakdown of how LED walls are structured from source to display. Signal flow and core components. |
+| [System Architecture](./system-architecture.md) | Low-level breakdown of how LED walls are structured from source to display. Signal flow and core components. |
 | [Cabling Principles](./02_cabling-principles.md) | Notes on cable types, data transmission methods, redundancy, and physical install considerations. |
 | [Samsung-Specific Details](./04_samsung-specifics.md) | Notes on Samsung’s S-Box, Interface Gender (IG), OCM cables, and cabinet connection standards. |
 | [On-Site Etiquette](./05_on-site-etiquette.md) | Notes for working clean, communicating well, asking for help properly, and behaving on a job site. |
