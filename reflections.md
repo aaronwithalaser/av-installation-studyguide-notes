@@ -11,6 +11,10 @@ I've confused zones and cabinets - A single seamless display is ALWAYS built fro
   - Cabinets are physical structures and when powered processing streams treats all cabinets _together_ as one logical display area. 
       - S-box / Sending box card config processes this
 
+What low cost projects can I create:
+  - CRT wall?
+    - custome PCB stream deck too crt wall
+
 LED Modules (Segments) - Small magnetic LED tiles	- Passive, Just LEDs. No smart function.
 
 Cabinet - Frame holding LED Modules - Has Hub Board (Receiver Card). Manages signal for modules within it.
