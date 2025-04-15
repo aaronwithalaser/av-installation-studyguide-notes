@@ -50,9 +50,30 @@ Power Chains = Separate from Data Links (but follow similar grouping)
 
 Breakdown
 
-- https://www.youtube.com/watch?v=wTxtpojJbDc
+https://www.youtube.com/watch?v=wTxtpojJbDc
+
   - NovaStar VX4S All-in-1 Controller / Video Processor
   - 4 LED modules per cabinet it looks like
   - Controller VX4 talking to server
   - Novel CT software?
-  - 
+
+## Control Integration for S-box (return back to after basics and fundamental knowledge)
+
+- Crestron / Q-SYS / Extron programming and scripting?
+- control over IP via http commands, telnet?, TCP sockets
+- Is samsung API heavily used alongside crestron etc?:
+  - power off/on
+  - input switching
+  - volume / mute
+  - presets and diagnostics  
+
+Crestron:
+  - https://docs.crestron.com/en-us/index/Content/Topics/Home.html
+
+Q-SYS
+  - https://support.qsys.com/
+
+Extron
+  - https://www.extron.com/training/howtovideos
+  - https://www.extron.com/Training/LearningGuide/TrainingLibrary
+
