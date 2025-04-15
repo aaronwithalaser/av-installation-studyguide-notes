@@ -29,6 +29,12 @@ Cabinets Grouped Into = Data Zones (For Load Management)
 
 My confusion here was thinking cabinets hold each zone. Zones are managed data sections and can span across multiple cabinets regardless of cabinets and the HUB board. It's starting to click. 
 
+Truss beams - research further 
+
+  - https://www.youtube.com/watch?v=zjJAta--kAs
+  - https://www.youtube.com/watch?v=U4i47SOvSXQ
+  - https://www.youtube.com/watch?v=-apD6HCsKRA
+  - https://www.youtube.com/watch?v=-6A-wy_FW4U
 
 1 Wall = Many Cabinets
 
