@@ -7,7 +7,7 @@ Zones exist to limit pixel load per link
 Zones keep failure domains small
 Data links are designed around cabinet power limits, pixel load, signal stability.
 
-I've confused zones and cabinets - A single seamless display is ALWAYS built from multiple displays
+I've confused zones and cabinets - A single seamless display is ALWAYS built from multiple cabinets
   - Cabinets are physical structures and when powered processing streams treats all cabinets _together_ as one logical display area. 
       - S-box / Sending box card config processes this
 
@@ -28,6 +28,7 @@ Each Cabinet = Contains Hub Board + Passive Modules
 Cabinets Grouped Into = Data Zones (For Load Management)
 
 My confusion here was thinking cabinets hold each zone. Zones are managed data sections and can span across multiple cabinets regardless of cabinets and the HUB board.
+
 Truss beams - research further 
 
   - https://www.youtube.com/watch?v=zjJAta--kAs
@@ -46,3 +47,12 @@ Newer cab hubs may have intergrated T-con boards (T-CON: board to regulate and a
 Zones = Logical Groups of Cabinets (for signal load management)
 
 Power Chains = Separate from Data Links (but follow similar grouping)
+
+Breakdown
+
+- https://www.youtube.com/watch?v=wTxtpojJbDc
+  - NovaStar VX4S All-in-1 Controller / Video Processor
+  - 4 LED modules per cabinet it looks like
+  - Controller VX4 talking to server
+  - Novel CT software?
+  - 
