@@ -27,8 +27,7 @@ Each Cabinet = Contains Hub Board + Passive Modules
     |
 Cabinets Grouped Into = Data Zones (For Load Management)
 
-My confusion here was thinking cabinets hold each zone. Zones are managed data sections and can span across multiple cabinets regardless of cabinets and the HUB board. It's starting to click. 
-
+My confusion here was thinking cabinets hold each zone. Zones are managed data sections and can span across multiple cabinets regardless of cabinets and the HUB board.
 Truss beams - research further 
 
   - https://www.youtube.com/watch?v=zjJAta--kAs
