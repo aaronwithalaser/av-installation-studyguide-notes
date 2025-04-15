@@ -12,6 +12,21 @@ This project exists to fill the gap while I build that experience and to give my
 
 Please expect mistakes and many revisions.
 
+Update (15/04/2025)
+- CSCS Card: for on site work - Booking and obtaining
+  - Mandatory in the UK for on-site AV work. Proves you’ve passed a basic health & safety test. Often paired with ECS? 
+  
+Persuing research into AV certifications and qualifications suitable for desired role:
+  
+  - AVIXA CTS https://www.avixa.org/certification-section/CTS
+      - Baseline AV cert — recognized worldwide, required or preferred by most employers. Covers AV fundamentals, signal flow, project phases, and best practices. Strong in both the US and EU.
+
+  - CEDIA Cabling & Infrastructure Technician https://cedia.org/smart-home-professionals/certifications/cit-certification/
+      - Home/resi-AV focused but good for understanding structured cabling, terminations, and installation basics.
+
+  - ECS AV Technician Card https://www.ecscard.org.uk/card-types/Audiovisual/Audiovisual-Technician
+      - Official route to AV worksite access in the UK? Requires an AV-related qualification or industry experience + H&S test
+
 ## Contents
 
 | Section | Description |
